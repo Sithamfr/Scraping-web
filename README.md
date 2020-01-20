@@ -1,1 +1,1 @@
-Download the ZIP file, extract and you've installed the app.
+Download the ZIP file, extract it and you've installed the app.
