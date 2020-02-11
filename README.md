@@ -24,22 +24,22 @@ ScrapR Help :
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-The app uses python and the packages (linked with their documentation) :
-	- asyncio 		(https://docs.python.org/fr/3/library/asyncio.html)
-	- aiohttp 		(https://aiohttp.readthedocs.io/en/stable/)
-	- re 			(https://docs.python.org/fr/3.6/library/re.html)
-	- tkinter 		(https://docs.python.org/fr/3/library/tk.html)
-	- webbrowser	(https://docs.python.org/2/library/webbrowser.html)
+	The app uses python and the packages (linked with their documentation) :
+		- asyncio 		(https://docs.python.org/fr/3/library/asyncio.html)
+		- aiohttp 		(https://aiohttp.readthedocs.io/en/stable/)
+		- re 			(https://docs.python.org/fr/3.6/library/re.html)
+		- tkinter 		(https://docs.python.org/fr/3/library/tk.html)
+		- webbrowser	(https://docs.python.org/2/library/webbrowser.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-IMPORTANT : If the launcher doesn't work, you can finally execute it in the shell with the script "python3 scraping.py" in your files directory.
+	IMPORTANT : If the launcher doesn't work, you can finally execute it in the shell with the script "python3 scraping.py" in your files directory.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-The app will create a folder named "__pycache__" at the execution. If you delete it, it will appear each time you compile the app.
-If there are error during, it will be written in the file errors.log.
-The app size is very light (522 Ko).
+	The app will create a folder named "__pycache__" at the execution. If you delete it, it will appear each time you compile the app.
+	If there are error during, it will be written in the file errors.log.
+	The app size is very light (522 Ko).
 -----------------------------------------------------------------------------------------------------------------------------------------------------
